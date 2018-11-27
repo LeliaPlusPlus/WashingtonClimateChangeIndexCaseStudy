@@ -21,7 +21,7 @@ After Washington recognized the urgent threat anthropogenic climate change posed
 
 Notably, Washington’s emissions profile is different of that of the overall United States’ emission profile. The emission profile of the U.S. is dominated by the power sector, which comprised 30 percent of total U.S. greenhouse gas emissions in 2014, with the second largest source of greenhouse gas emissions being transportation. On the other hand, the emission of Washington is dominated by transportation emissions, accounting for 43 percent of total statewide greenhouse gas emissions in 2013, given that Washington has a relatively clean power sector with substantial hydropower assets. (Washington Department of Ecology)
 
-##Literature Review
+## Literature Review
 Notably, much of the literature focuses on the accuracy of machine learning methods to predict climate change unlike other publications which may use statistical methods for predictions and assume that they are accurate for the given dataset. This literature review focuses specifically on publications which discuss using machine learning methods to predict climate change, both globally and locally. 
 
 Detecting extreme events in large data sets is a major challenge in climate change research (Lui et al., 2016). Often, different machine-learning methods will produce vastly different results on the same dataset (Lui et al., 2016). Developing their own deep Convolutional Neural Network (CNN) classification system, Liu et al. was able to demonstrate the usefulness of Deep Learning technique for tackling climate pattern detection problems and achieve 89-99% accuracy in detecting extreme events (2016).
@@ -81,13 +81,23 @@ Notably, the findings that the aggregate greenhouse emission each year is increa
 
 ## References
 Beer, C., Reichstein, M., Tomelleri, E., Ciais, P., Jung, M., Carvalhais, N., an Rödenbeck, C., Altaf Arain, M., Baldocchi, D., Bonan, G. B., & Bondeau, A. (2010). Terrestrial gross carbon dioxide uptake: global distribution and covariation with climate. Science, 1184984.
+
 Benito Garzón, M., Sánchez de Dios, R., & Sainz Ollero, H. (2008). Effects of climate change on the distribution of Iberian tree species. Applied Vegetation Science, 11(2), 169-178.
+
 Department of Ecology of State of Washington. (2016). Washington greenhouse gas emissions reduction limits. Retrieved from https://fortress.wa.gov/ecy/publications/documents/1601010.pdf.
+
 Liu, Y., Racah, E., Correa, J., Khosrowshahi, A., Lavers, D., Kunkel, K., Wehner, M., & Collins, W. (2016). Application of deep convolutional neural networks for detecting extreme weather in climate datasets. arXiv preprint arXiv:1605.01156.
+
 National Aeronautics and Space Administration. Global climate change: Vital signs of the planet. Retrieved from https://climate.nasa.gov/effects/.
+
 Neuromation. AI and deep learning are the keys to unlocking the future of environmental sustainability. Retrieved from https://medium.com/neuromation-io-blog/ai-and-deep-learning-are-the-keys-to-unlocking-the-future-of-environmental-sustainability-345f93a57ec5.
+
 Pearson, R. G., Phillips, S. J., Loranty, M. M., Beck, P. S., Damoulas, T., Knight, S. J., & Goetz, S. J. (2013). Shifts in Arctic vegetation and associated feedbacks under climate change. Nature climate change, 3(7), 673.
+
 Peterson, A. T., Ortega-Huerta, M. A., Bartley, J., Sánchez-Cordero, V., Soberón, J., Buddemeier, R. H., & Stockwell, D. R. (2002). Future projections for Mexican faunas under global climate change scenarios. Nature, 416(6881), 626.
+
 State of Washington. (2018). Climate change index [Data file]. Retrieved from https://catalog.data.gov/dataset/climate-change-index.
+
 Rogan, J., Franklin, J., Stow, D., Miller, J., Woodcock, C., & Roberts, D. (2008). Mapping land-cover modifications over large areas: A comparison of machine learning algorithms. Remote Sensing of Environment, 112(5), 2272-2283.
+
 Wiley, E. O., McNyset, K. M., Peterson, A. T., Robins, C. R., & Stewart, A. M. (2003). Niche modeling perspective on geographic range predictions in the marine environment using a machine-learning algorithm.
